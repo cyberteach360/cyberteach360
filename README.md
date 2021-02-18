@@ -1,6 +1,6 @@
 ### Hi there 👋, cyberteach360
 #### CTF Player & Cyber Security Researcher
-![CTF Player & Cyber Security Researcher](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![CTF Player & Cyber Security Researcher](https://twitter.com/cyberteach3601/header_photo)
 
 I am Md Foysal Hossain From Bangladesh . I am CTF Player & Cyber Security Researcher.I am still now student at Islamic University ,Bangladesh Department of Information And Communication Engineering 
 
