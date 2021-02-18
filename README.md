@@ -6,35 +6,24 @@
 I am Md Foysal Hossain From Bangladesh . I am CTF Player & Cyber Security Researcher.I am still now student at Islamic University Bangladesh , Department of Information And Communication Engineering .
 
 ## Skills & Experience : 
-* :computer:
-           HTML,
-           CSS,
-           JAVA SCRIPT,
-           C,
-           C++.
-           Python3
-* :collision:
-           Linux OS,
-           Windows OS,
-           Kali Os
- * :muscle: Cryptography , Steganography ,Digital Forensics ,Web-Pentestng ,Reverse-Engineering ,Osnit
- * :skull: Ethical Hacking , Web-pentesting ,Basic Networking 
+* :computer: Python3 / C / C++ / Webcoding(HTML,CSS,Java Script ,MySQL)
+* :collision: Linux OS / Windows OS / Kali Os
+ * :muscle: Cryptography / Steganography / Digital Forensics / Web-Pentestng / Reverse-Engineering / Osnit
+ * :skull: Ethical Hacking / Web-pentesting / Basic Networking / CTF Player
+ * :eyes: Try Hack Me / Hack The Box / Cyber Talents
      
            
  * :fire:
-       Metasploit,
-       Nmap,
-       Wpscaner,
-       Burp-suite ,
-       Wireshark ,
-       gobuster ,
-       dirsearch ,
-       Hydra ,
-       Many more 
+       Metasploit /
+       Nmap /
+       Wpscaner /
+       Burp-suite /
+       Wireshark /
+       gobuster /
+       dirsearch /
+       Hydra /
+       etc
        
-       
-
-C / C++ / Python3 / Linux OS / Kali OS / Web Pentesing / Basic Networking /Ethica Hacking / JS / HTML / CSS
 
 - 🔭 I’m currently working on Nothing 
 - 🌱 I’m currently learning Cyber security 
