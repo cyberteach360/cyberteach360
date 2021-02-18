@@ -6,7 +6,7 @@
 I am Md Foysal Hossain From Bangladesh . I am CTF Player & Cyber Security Researcher.I am still now student at Islamic University ,Bangladesh Department of Information And Communication Engineering 
 
 ## Skills & Experience : 
-* :ship
+* :thumbsup:
 
 C / C++ / Python3 / Linux OS / Kali OS / Web Pentesing / Basic Networking /Ethica Hacking / JS / HTML / CSS
 
