@@ -3,7 +3,7 @@
 # Cyberteach360
 #### CTF Player & Cyber Security Researcher
 
-I am Md Foysal Hossain From Bangladesh . I am CTF Player & Cyber Security Researcher.I am still now student at Islamic University ,Bangladesh Department of Information And Communication Engineering 
+I am Md Foysal Hossain From Bangladesh . I am CTF Player & Cyber Security Researcher.I am still now student at Islamic University Bangladesh , Department of Information And Communication Engineering .
 
 ## Skills & Experience : 
 * :computer:
@@ -17,12 +17,21 @@ I am Md Foysal Hossain From Bangladesh . I am CTF Player & Cyber Security Resear
            Linux OS,
            Windows OS,
            Kali Os
+ * :muscle: Cryptography , Steganography ,Digital Forensics ,Web-Pentestng ,Reverse-Engineering ,Osnit
+ * :skull: Ethical Hacking , Web-pentesting ,Basic Networking 
+     
            
  * :fire:
        Metasploit,
        Nmap,
        Wpscaner,
-       Burp-suite
+       Burp-suite ,
+       Wireshark ,
+       gobuster ,
+       dirsearch ,
+       Hydra ,
+       Many more 
+       
        
 
 C / C++ / Python3 / Linux OS / Kali OS / Web Pentesing / Basic Networking /Ethica Hacking / JS / HTML / CSS
