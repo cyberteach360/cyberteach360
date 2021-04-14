@@ -6,9 +6,9 @@
 Currently pursuing my undergraduate studies at the Department of Information and Communication Technology in Islamic University, Bangladesh.
 
 ## Skills & Experience : 
-* :computer: Python3 / C / C++ / Webcoding(HTML,CSS,Java Script ,MySQL)
-* :collision: Linux OS / Windows OS / Kali Os
- * :muscle: Cryptography / Steganography / Digital Forensics / Web-Pentesting / Reverse-Engineering / Osnit
+* :computer: Python3 / C / C++ / Webcoding(HTML,CSS,Java Script ,PHP, MySQL)
+* :collision: Linux OS / Windows OS / Kali OS
+ * :muscle: Cryptography / Steganography / Digital Forensics / Web-Pentesting / Reverse-Engineering / OSINT
  * :skull: Ethical Hacking / Web-pentesting / Basic Networking / CTF 
  * :eyes: Try Hack Me / Hack The Box / Cyber Talents
      
