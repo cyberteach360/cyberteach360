@@ -1,9 +1,17 @@
 
 ![CTF Player & Cyber Security Researcher](https://pbs.twimg.com/profile_banners/1332914905238761474/1613647190/1080x360)
 # Cyberteach360
-#### CTF Player & Cyber Security Researcher
+#### CTF , Cyber Security , Ethical Hacking Youtube Channel
 
-Currently pursuing my undergraduate studies at the Department of Information and Communication Technology in Islamic University, Bangladesh.
+👀 Cyberteach360 is a youtube channel where you will find :
+                                                         CTF
+                                                         Web Penetration Testing
+                                                         Ethical Hacking
+                                                         Network Pentesting 
+                                                         Bug Huntinh
+                                                         Programming
+related Videos day by day . 👽 Stay with Us  🉑                                                         
+                                                         
 
 ## Skills & Experience : 
 * :computer: Python3 / C / C++ / Webcoding(HTML,CSS,Java Script ,PHP, MySQL)
